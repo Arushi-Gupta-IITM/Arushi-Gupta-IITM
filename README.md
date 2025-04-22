@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arushi-Gupta-IITM
 - 👀 I’m interested in web development, app development and all the upcoming technologies.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning backend web development.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: my email - arushig1401gmail.com
 
 <!---
